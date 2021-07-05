@@ -1,6 +1,6 @@
   public static class ArrayUtility
     {
-       public static void Resize(ref int[] array,int newSize)
+       public static int Resize(ref int[] array,int newSize)
         {
            for (int i = 0; i < array.Length; i++)
 			{
