@@ -1,0 +1,7 @@
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\bin\Debug\ArrayUtility.exe.config
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\bin\Debug\ArrayUtility.exe
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\bin\Debug\ArrayUtility.pdb
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\obj\Debug\ArrayUtility.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\obj\Debug\ArrayUtility.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\obj\Debug\ArrayUtility.exe
+C:\Users\ubedullah.patait\source\repos\ArrayUtility\ArrayUtility\obj\Debug\ArrayUtility.pdb
