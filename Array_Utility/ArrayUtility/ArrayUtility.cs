@@ -12,26 +12,13 @@ namespace ArrayUtility
         public static int Resize(ref int[] array, int newSize)
         {
 
-			for (int i = 0; i < array.Length; i++)
-			{
-				Console.WriteLine(array[i]);
-				//newSize++;
+			int[] ArrayTemp =new int[newSize];
+		       for(int i=0; i<array.Length; i++)
+		       {
+			       ArrayTemp[i] = array[i];
+		       }
 
-			}
-			array = new int[newSize];
-			for (int i = 0; i < array.Length; i++)
-			{
-				Console.WriteLine(array[i]);
-				//newSize++;
-
-			}
-			Console.WriteLine((array));
-			// arr[5] = 'n';
-			return array[5];
-
-
-		
-      
+	               array =ArrayTemp;
 
 
 		}
