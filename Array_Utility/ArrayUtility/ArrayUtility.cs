@@ -9,7 +9,7 @@ namespace ArrayUtility
     public static class ArrayUtility
     {
 
-        public static int Resize(ref int[] array, int newSize)
+        public static void Resize(ref int[] array, int newSize)
         {
 
 			int[] ArrayTemp =new int[newSize];
